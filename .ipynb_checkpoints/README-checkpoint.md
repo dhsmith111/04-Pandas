@@ -1,1 +1,3 @@
-# 04-Pandas Homework - Portofolio Comparison 
+# 04-Pandas Homework - Quantitative Analysis / Portfolio Comparison
+
+[pandas_portofolio_comparison.ipynb]('./pandas_portofolio_comparison.ipynb')
